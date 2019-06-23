@@ -123,18 +123,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ABB.cpp" />
     <ClCompile Include="Columnas.cpp" />
     <ClCompile Include="Filas.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MatrizOrtogonal.cpp" />
+    <ClCompile Include="NodoBinario.cpp" />
     <ClCompile Include="NodoColumna.cpp" />
     <ClCompile Include="NodoContenido.cpp" />
     <ClCompile Include="NodoFila.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ABB.h" />
     <ClInclude Include="Columnas.h" />
     <ClInclude Include="Filas.h" />
     <ClInclude Include="MatrizOrtogonal.h" />
+    <ClInclude Include="NodoBinario.h" />
     <ClInclude Include="NodoColumna.h" />
     <ClInclude Include="NodoContenido.h" />
     <ClInclude Include="NodoFila.h" />
